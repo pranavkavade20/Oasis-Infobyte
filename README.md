@@ -62,4 +62,4 @@ During this internship, I developed several Python GUI-based applications using 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/python-gui-projects.git
+   git clone https://github.com/pranavkavade20/python-gui-projects.git
