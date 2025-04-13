@@ -15,8 +15,8 @@ During this internship, I developed several Python GUI-based applications using 
   - Calculation of BMI value
   - Categorization of BMI (Underweight, Normal, Overweight, Obese)
 - **Demo Video**:  
-  [![Watch Demo](https://img.youtube.com/vi/VIDEO_ID_1/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_1)  
-  *(Replace `VIDEO_ID_1` with your actual YouTube video ID)*
+  
+  
 
 ---
 
@@ -27,7 +27,7 @@ During this internship, I developed several Python GUI-based applications using 
   - Option to include uppercase, lowercase, digits, and special characters
   - Copy password to clipboard
 - **Demo Video**:  
-  [![Watch Demo](https://img.youtube.com/vi/VIDEO_ID_2/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_2)
+  
 
 ---
 
@@ -38,7 +38,11 @@ During this internship, I developed several Python GUI-based applications using 
   - Fetch weather details such as temperature, humidity, and description
   - User-friendly interface with error handling
 - **Demo Video**:  
-  [![Watch Demo](https://img.youtube.com/vi/VIDEO_ID_3/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_3)
+
+https://github.com/user-attachments/assets/39e6203c-98d0-4924-8143-afaac3cac3bf
+
+
+
 
 ---
 
