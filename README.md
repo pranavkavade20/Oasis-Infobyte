@@ -14,7 +14,9 @@ During this internship, I developed several Python GUI-based applications using 
   - Input fields for height (in cm) and weight (in kg)
   - Calculation of BMI value
   - Categorization of BMI (Underweight, Normal, Overweight, Obese)
-- **Demo Video**:  https://github.com/user-attachments/assets/39e6203c-98d0-4924-8143-afaac3cac3bf
+- **Demo Video**:
+
+  https://github.com/user-attachments/assets/39e6203c-98d0-4924-8143-afaac3cac3bf
 ---
 
 ### 2. **Password Generator**
@@ -23,7 +25,9 @@ During this internship, I developed several Python GUI-based applications using 
   - Generate random passwords of user-defined length
   - Option to include uppercase, lowercase, digits, and special characters
   - Copy password to clipboard
-- **Demo Video**: https://github.com/user-attachments/assets/3447fdd7-c125-421c-990e-8f9162c6c5af
+- **Demo Video**:
+
+  https://github.com/user-attachments/assets/3447fdd7-c125-421c-990e-8f9162c6c5af
 ---
 
 ### 3. **Weather App**
@@ -32,7 +36,9 @@ During this internship, I developed several Python GUI-based applications using 
   - Input field for city name
   - Fetch weather details such as temperature, humidity, and description
   - User-friendly interface with error handling
-- **Demo Video**: https://github.com/user-attachments/assets/9dee1988-41c0-41f1-bec5-a99bb12a67ba
+- **Demo Video**:
+
+  https://github.com/user-attachments/assets/9dee1988-41c0-41f1-bec5-a99bb12a67ba
 ---
 ## Skills Gained
 
