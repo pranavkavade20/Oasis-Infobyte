@@ -58,12 +58,6 @@ During this internship, I developed several Python GUI-based applications using 
 
 ---
 
-## Screenshots
-
-> *(Optional: Add screenshots of your applications here)*
-
----
-
 ## How to Run
 
 1. Clone the repository:
